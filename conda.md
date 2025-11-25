@@ -16,7 +16,7 @@ api_key="sk-b1bde7da97e4446698760ce4fc71a4a4"
 2. transformers - 模型调用
 
 openai 、 transformers 已安装，能实现基本功能
-之后安装 torch ， 问题是 之前下载的时候空间不够
+之后安装 torch ， 问题是 之前下载的时候空间不够. torch 已安装，能够正常使用
 
 ipynb 配置、加快调试
 已安装
